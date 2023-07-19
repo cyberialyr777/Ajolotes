@@ -1,0 +1,46 @@
+body{
+    background-color: #FAF0E4;
+    font-family: 'PT Serif', serif;
+}
+
+p{
+    color:black;
+}
+/*sfrgthg*/
+
+.titulo{
+    color: #FF8551;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.menu{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgg{
+    width: 20%;
+    display: flex;
+    border-radius: 20px;
+}
+
+.ajodu{
+    width: 20%;
+    display: flex;
+    border-radius: 20px;
+    margin-top: 1%;
+}
+
+a{
+    color:coral;
+    text-decoration: none;
+
+}
+
+.boton {
+    margin-top: 1%;
+    background-color: #FF8551;
+}
